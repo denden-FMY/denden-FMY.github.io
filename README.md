@@ -2,4 +2,4 @@
 
 [Go To MyProject](https://denden-FMY.github.io)
 
-abcdefghijklmnopqrstuvwxyz
+でんでんの自己紹介サイトへ
